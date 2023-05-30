@@ -1,6 +1,6 @@
 # Bank-Churn-Analaysis-Using-Power-BI
 In this project I have used dataset from csv file to build the following things:-
-Creating the Measures-
+## Creating the Measures-
 Create a measures to calculate the no. of customers by using dax.
 Create a measures to calculate the lost customers by using dax.
 Create a measures to calculate the churn rate by using dax.
