@@ -7,5 +7,6 @@ In this project I have used dataset from csv file to build the following things:
 * Creating a final interactive Dashboard.I using a donut chart visuals and line clusterd column chart for showing our report.
 and slicers using for filter our data and KPI cards is also used for showing the numbers. 
 
+The Aim of this Bank churn customer data analysis dashboard is to summerize complicated data into useful conclusions and persent them in an attractive visual format. it would be help data driven decision. 
 
 ![image](https://github.com/laxmivish/Bank-Churn-Analaysis-Using-Power-BI/assets/129850080/2524fae5-d6fe-4437-9e30-be4a7b332217)
